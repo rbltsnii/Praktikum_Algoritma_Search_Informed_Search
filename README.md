@@ -1,5 +1,5 @@
 # Praktikum Algoritma Pencarian (Informed Search)
-**2306141_Rabiul Tsani Ghiffarul Hak**
+**2306141_Rabiul Tsani Ghifarulhaq A**
 
 ## 📌 Deskripsi
 Repository ini berisi implementasi berbagai algoritma pencarian berbasis informasi (*Informed Search*) menggunakan **Python**. Algoritma yang tersedia meliputi:
